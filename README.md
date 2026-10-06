@@ -1,42 +1,38 @@
-## Hi, I'm Brenda 👋
+Data scientist and program evaluator with expertise in predictive modeling, data pipeline engineering, and translating complex findings for executive leadership. Background in educational outcomes research (15K+ students) with technical skills in statistical inference, machine learning, and data visualization.
 
-Former college STEM instructor → Data scientist specializing in educational outcomes research
+Currently building ML models and analytics infrastructure that drive organizational outcomes across education, public sector, and data-driven industries.
 
-Currently building ML models and dashboards that help 15K+ students succeed at Salt Lake City School District
+What I Do
 
-### What I Do
+🤖 Machine Learning & Predictive Modeling - Building models identifying patterns & predicting outcomes with 83%+ accuracy
+📊 Data Engineering & SQL - Designing complex pipelines and database architectures for analytical scale
+📈 Statistical Analysis & Inference - Rigorous hypothesis testing, causal inference, program evaluation
+💡 Data Storytelling - Translating technical findings into actionable insights for executives
 
-- 📊 **Data Analysis & Visualization** - Building interactive dashboards with Power BI and Tableau
-- 🤖 **Machine Learning** - Predictive models for student performance and early intervention
-- 🗄️ **Database Engineering** - Complex SQL queries and data pipeline automation
-- 📈 **Program Evaluation** - Statistical analysis informing district policy decisions
+Tech Stack
 
-### Tech Stack
+Languages & Tools:
+SQL | R | Python | Power BI | Tableau | Git | Snowflake | dbt
 
-**Languages & Tools:**  
-`SQL` `R` `Python` `Power BI` `Tableau` `Git`
+Specialties:
+Machine Learning • Predictive Modeling • Statistical Analysis • Data Pipelines • ETL • Program Evaluation
 
-**Specialties:**  
-Statistical Analysis • Machine Learning • Data Visualization • Educational Research • ETL Pipelines
+Featured Work
 
-### Featured Work
+🎯 MAP Predictive Validity Study
+Built end-to-end analytics pipeline (SQL → R) modeling whether interim assessments predict outcomes for 11,000 students. Delivered logistic regression models (McFadden R² ≈ .46) to leadership informing assessment policy.
 
-🎓 **[English Learner Outcomes Analysis](https://github.com/brenda12lynette/education-data-analysis)**  
-Longitudinal study tracking 2,800+ students examining how EL status impacts CTE completion rates. Built predictive models (83% accuracy) that identified at-risk students 6 weeks earlier, enabling interventions for 40% more students.
+Background
 
-### Background
+- M.A. Anthropology | Texas Tech University
+- M.A. Sociology | University of Oklahoma
+- Former Adjunct Professor | Taught biological anthropology
+- 5+ years designing analytical systems for evidence-based decision-making
 
-- **M.A. Anthropology** | Texas Tech University
-- **M.A. Sociology** | University of Oklahoma  
-- **Former Adjunct Professor** | Taught biological anthropology at Salt Lake Community College
-- **5+ years** analyzing K-12 educational outcomes
+Connect
 
-### Connect
+🌐 Portfolio: brenda-wiebe.neocities.org
+📧 Email: brenda.lynette@gmail.com
+📍 Location: Salt Lake City, UT
 
-- 🌐 Portfolio: [brenda-wiebe.neocities.org](https://brenda-wiebe.neocities.org)
-- 📧 Email: brenda.lynette@gmail.com
-- 📍 Location: Salt Lake City, UT
-
----
-
-*Making sense of student data to drive educational equity*
+Building data systems that drive organizational impact
